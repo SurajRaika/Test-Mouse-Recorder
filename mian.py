@@ -13,7 +13,7 @@ out = cv2.VideoWriter('Recording1.avi',fourcc, 8.0, (1600,900))
 print(screensize)
 height = int(input("enter width"))
 width = int(input("enter height"))
-Xs = [0,8,6,14,12,4,2,0]q
+Xs = [0,8,6,14,12,4,2,0]
 Ys = [0,2,4,12,14,6,8,0]
 while(True):
     
